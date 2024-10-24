@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Screenshot (2750)](https://github.com/user-attachments/assets/eaffb521-c70c-4123-ba15-8d34efb4317f)
 
-## Getting Started
 
-First, run the development server:
+![Screenshot (2751)](https://github.com/user-attachments/assets/dc4fc4f4-fdd4-4806-9aa1-55e9d3ba5de6)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Screenshot (2747)](https://github.com/user-attachments/assets/f3921171-2ee2-4eb4-9540-acda63bc352b)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot (2744)](https://github.com/user-attachments/assets/ec10a9a6-b49c-40bd-8db5-c8a4736bafb4)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Screenshot (2745)](https://github.com/user-attachments/assets/559020d9-4515-4867-9fee-0c889ccfbca5)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Screenshot (2746)](https://github.com/user-attachments/assets/4b2a8e27-89a1-4222-b951-ee2658e46ac2)
 
-## Learn More
+![Screenshot (2739)](https://github.com/user-attachments/assets/7a566a66-28e3-4a63-8a56-8c51e96fecdf)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Uploading Screenshot (2731).png…]()
